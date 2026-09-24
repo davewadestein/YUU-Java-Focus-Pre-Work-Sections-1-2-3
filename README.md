@@ -1,6 +1,7 @@
 # YUU-Java-Focus-Pre-Work-Sections-1-2-3
 * Dave Wade-Stein instructor.dws@gmail.com
 * Google Colaboratory link: https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab/
+* LinkedIn
 
 ## IMPORTANT
 * Your Week 1 Pre-Work content is now available in BrightSpace.
