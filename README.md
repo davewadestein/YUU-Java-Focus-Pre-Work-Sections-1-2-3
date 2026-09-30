@@ -5,7 +5,7 @@
 * tech issues (e.g., Zoom, brightspace) please email emilie-jones@pluralsight.com
   
 ## Homework
-* times have been adjusted so that we don't have the problem we had last week where homework was considered late when it wasn't
+* Brightspace has been adjusted so that all homeworks are due at 11:59 in *your* timezone.
   
 ## IMPORTANT
 * Your Week 1 Pre-Work content is now available in BrightSpace.
