@@ -3,6 +3,9 @@
 * Google Colaboratory link: https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab/
 * LinkedIn–If you wish to connect with me via LinkedIn, just send me a connection request and I will accept.
 
+## Homework
+* times have been adjusted so that we don't have the problem we had last week where homework was considered late when it wasn't
+  
 ## IMPORTANT
 * Your Week 1 Pre-Work content is now available in BrightSpace.
 * You will have two assignments and one knowledge check to complete every week of pre-work. 
