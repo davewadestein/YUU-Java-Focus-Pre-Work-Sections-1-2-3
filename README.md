@@ -3,6 +3,7 @@
 * Google Colaboratory link: https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab/
 * LinkedIn–If you wish to connect with me via LinkedIn, just send me a connection request and I will accept.
 * tech issues (e.g., Zoom, brightspace) please email emilie-jones@pluralsight.com
+* if you have an opportunity to give feedback to YUU as students, and you agree with this–tell them sessions should be 2 hours and not. 90 minutes
 
 ## Instructors for Java Portion of the Academy
 * Section 1 = Remsey Mailjard
