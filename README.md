@@ -3,6 +3,11 @@
 * Google Colaboratory link: https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab/
 * LinkedIn–If you wish to connect with me via LinkedIn, just send me a connection request and I will accept.
 * tech issues (e.g., Zoom, brightspace) please email emilie-jones@pluralsight.com
+
+## Instructors for Java Portion of the Academy
+* Section 1 = Remsey Mailjard
+* Section 2 = Maaike Van Putten
+* Section 3 = Eric Schwartz
   
 ## Homework
 * Brightspace has been adjusted so that all homeworks are due at 11:59 in *your* timezone.
