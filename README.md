@@ -8,6 +8,7 @@
 ## Resources
 * Python Tutor (Code Visualizer) https://pythontutor.com/
 * Python built-in functions https://docs.python.org/3/builtins/functions.html
+* Why Numbering Starts at Zero https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html
 
 ## Instructors for Java Portion of the Academy
 * Section 1 = Remsey Mailjard
