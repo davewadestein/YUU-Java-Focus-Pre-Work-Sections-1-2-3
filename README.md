@@ -6,7 +6,8 @@
 * if you have an opportunity to give feedback to YUU as students, and you agree with this–tell them sessions should be 2 hours and not 90 minutes
 
 ## Resources
-Python Tutor (Code Visualizer) https://pythontutor.com/
+* Python Tutor (Code Visualizer) https://pythontutor.com/
+* Python built-in functions https://docs.python.org/3/builtins/functions.html
 
 ## Instructors for Java Portion of the Academy
 * Section 1 = Remsey Mailjard
