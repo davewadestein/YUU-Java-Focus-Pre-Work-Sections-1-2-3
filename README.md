@@ -10,6 +10,11 @@
 * tech issues (e.g., Zoom, brightspace) please email emilie-jones@pluralsight.com
 * if you have an opportunity to give feedback to YUU as students, and you agree with this–tell them sessions should be 2 hours and not 90 minutes
 
+## Thoughts
+* The 3 banes of existence for programmers are
+  * uninitialized variables (Java) / wrongly initialized variables (Python)
+  * off by one errors
+    
 ## Resources
 * Python Tutor (Code Visualizer) https://pythontutor.com/
 * Python built-in functions https://docs.python.org/3/builtins/functions.html
