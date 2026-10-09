@@ -1,3 +1,8 @@
+# Survey Links
+* Section 3: https://www.surveymonkey.com/r/KNR73GL
+* Section 1: https://www.surveymonkey.com/r/KNVZRVZ
+* Section 2: https://www.surveymonkey.com/r/KNQX9LB
+
 # YUU-Java-Focus-Pre-Work-Sections-1-2-3
 * Dave Wade-Stein instructor.dws@gmail.com
 * Google Colaboratory link: https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab/
